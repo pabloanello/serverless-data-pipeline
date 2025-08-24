@@ -19,5 +19,5 @@ jobs:
         pip install -r requirements.txt
     - name: Run tests
       run: |
-        pytest --cov=src
+        PYTHONPATH=. pytest --cov=src
 
