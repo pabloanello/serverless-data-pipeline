@@ -19,9 +19,12 @@ It processes real-time events and stores them in DynamoDB.
 pip install -r requirements.txt
 sam build
 sam deploy --guided
+```
 
 ## ✅ Run Tests
+```bash
 PYTHONPATH=. pytest --cov=src
+```
 
 ## ✅ CI/CD
 This project uses GitHub Actions for:
