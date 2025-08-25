@@ -1,4 +1,4 @@
-![Build Status](https://github.com/TU-USUARIO/serverless-data-pipeline/actions/workflows/python-ci.yml/badge.svg)
+![Build Status](https://github.com/pabloanello/serverless-data-pipeline/actions/workflows/python-ci.yml/badge.svg)
 
 # Serverless Data Pipeline
 A serverless event-driven data pipeline using **AWS Lambda, Kinesis, and DynamoDB**.  
